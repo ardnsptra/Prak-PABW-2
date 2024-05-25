@@ -1,6 +1,6 @@
 # Prak-PABW-Tugas-2
 
-Muhammad Ardian Saputra
+Muhammad Ardian Saputra\
 11211055
 
 # Jangan Lupa di dalam folder Backend dan Frontend
