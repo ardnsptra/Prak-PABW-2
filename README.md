@@ -14,4 +14,5 @@ Muhammad Ardian Saputra\
 Frontend = npm run start
 Backend = npm run dev
 
-Note: untuk Frontend, cd nya ke *frontend\react-tailwind-auth*
+# Note
+untuk Frontend, cd nya ke *frontend\react-tailwind-auth*
