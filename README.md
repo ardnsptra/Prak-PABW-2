@@ -11,7 +11,7 @@ Muhammad Ardian Saputra\
  - npm run db:migrate
 
 # Run Backend dan Frontend
-Frontend = npm run start
+Frontend = npm run start\
 Backend = npm run dev
 
 # Note
